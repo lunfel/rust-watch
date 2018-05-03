@@ -1,0 +1,14 @@
+{
+  "name": "rust-watch",
+  "version": "1.0.0",
+  "description": "NodeJS script to automatically build Rust project on change using Cargo",
+  "main": "watch.js",
+  "author": "Mathieu Tanguay (Taema Inc.)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "bin": {
+    "rust-watch": "./watch.js"
+  }
+}
