@@ -1,3 +1,7 @@
+# Github Repository
+
+https://github.com/lunfel/rust-watch
+
 # rust-watch
 
 > NodeJS script to automatically build Rust project on change using Cargo. This is inspired by the webpack-dev-server.
